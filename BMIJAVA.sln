@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BMIJAVA", "BMIJAVA\BMIJAVA.csproj", "{BC51D387-5E2A-4595-9A49-14EA7D932B59}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC51D387-5E2A-4595-9A49-14EA7D932B59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC51D387-5E2A-4595-9A49-14EA7D932B59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC51D387-5E2A-4595-9A49-14EA7D932B59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC51D387-5E2A-4595-9A49-14EA7D932B59}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {22528B48-1101-49C7-A77C-A7A97AD5741A}
+	EndGlobalSection
+EndGlobal
